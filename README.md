@@ -1,2 +1,2 @@
 # itrocks.js
-The famous I.T. Rocks framework, port in node
+The unfamous it.rocks framework, experimental port in node.
